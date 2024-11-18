@@ -1,0 +1,20 @@
+{
+  "name": "f2024_comp3104",
+  "version": "1.0.0",
+  "description": "-Hello world-",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roda152/f2024_comp3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roda152/f2024_comp3104/issues"
+  },
+  "homepage": "https://github.com/Roda152/f2024_comp3104#readme"
+}
